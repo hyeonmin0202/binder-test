@@ -1,5 +1,7 @@
 # Ion Exchange Models
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyeonmin0202/binder-test.git/HEAD)
+
 Preliminary versions of ion exchange models.
 
 For an overview of ion exchange column modeling, consult:
